@@ -4,7 +4,7 @@
   "description": "from egghead.io",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha './src/**/*.spec.js' --compilers js:babel-register"
   },
   "author": "R. August Bollinger",
   "license": "ISC",
