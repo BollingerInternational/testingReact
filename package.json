@@ -1,0 +1,20 @@
+{
+  "name": "testingreact",
+  "version": "1.0.0",
+  "description": "from egghead.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "R. August Bollinger",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.14.5",
+    "react-dom": "^0.14.5"
+  },
+  "devDependencies": {
+    "expect": "^1.13.4",
+    "mocha": "^2.3.4",
+    "react-addons-test-utils": "^0.14.5"
+  }
+}
